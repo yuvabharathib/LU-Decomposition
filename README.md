@@ -41,8 +41,8 @@ print(u)
 (ii) To find the LU Decomposition of a matrix
 ```python
 '''Program to solve a matrix using LU decomposition.
-Developed by:naveenaa 
-RegisterNumber: 22003091
+Developed by:yuvabharathib
+RegisterNumber: 22002787
 '''
 # To print X matrix (solution to the equations)
 import numpy as np
